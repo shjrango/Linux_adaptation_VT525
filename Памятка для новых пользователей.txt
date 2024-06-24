@@ -1,0 +1,9 @@
+Инструкция по основным командам терминала линукс(создание папок, текстовый редактор nano и т.д.):
+https://habr.com/ru/articles/501442/ - текстовая статья
+https://www.youtube.com/watch?v=XvqRTcRK7fU - видео-ресурс
+
+Дополнительно, курсы по линукс:
+https://www.youtube.com/watch?v=kPZbEgyriYc&list=PLAixKCwWV1dALYSme2mulhcdiXkI-bJC2&pp=iAQB
+https://www.youtube.com/watch?v=fE1VG1gpXjU&list=PL0lO_mIqDDFUwVWvVitxG2oXA6a-Nq-Qq
+
+https://habr.com/ru/articles/655275/ - основы линукс
